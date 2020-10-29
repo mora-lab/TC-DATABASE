@@ -1,2 +1,2 @@
-# data
-Sample data to build the database (not the entire dataset)
+# Database
+The Neo4j database (or part of it, if it is too big)
