@@ -1,2 +1,2 @@
-# results
-Sample version of the database using the limited input data
+# Results
+Examples of the results using the full dataset
