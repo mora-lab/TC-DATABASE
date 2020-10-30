@@ -29,7 +29,7 @@ Before you run this shiny, you need to start [neo4j database(version = 3.5.23)](
 ```
 library(RNeo4j)
 #using your lacol neo4j, change the username and password
-graph = startGraph("http://localhost:7474/db/data/", username="neo4j", password="password")
+#graph = startGraph("http://localhost:7474/db/data/", username="neo4j", password="password")
 #using my public neo4j (just for our lab)
 graph = startGraph("http://192.168.1.104:7474/db/data/", username="neo4j", password="xiaowei")
 library(shiny)
